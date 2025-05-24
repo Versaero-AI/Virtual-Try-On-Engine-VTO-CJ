@@ -8,7 +8,7 @@ A high-performance, GPU-accelerated **Virtual Try-On system** written in **C** a
 
 ## 📫 Contact
 
-If you'd like to contribute or see code examples, contact [ShaktibiplabDev](https://github.com/shaktibiplabDev)
+If you'd like to contribute or see code examples, contact [shaktibiplabDev](https://github.com/shaktibiplabDev)
 
 ---
 
